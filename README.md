@@ -14,6 +14,9 @@
     </a>
     •
     <a href="https://t.me/Prof_agora">
+        
+        [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/Pyrogram)
+
         Community
     </a>
 </p>
