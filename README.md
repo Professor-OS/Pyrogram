@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="https://github.com/Professor-OS/pyrogram">
         <img src="https://i.imgur.com/BOgY9ai.png" alt="Pyrogram">
     </a>
     <br>
@@ -9,11 +9,11 @@
         Documentation
     </a>
     •
-    <a href="https://github.com/pyrogram/pyrogram/releases">
+    <a href="https://github.com/Professor-OS/pyrogram/releases">
         Releases
     </a>
     •
-    <a href="https://t.me/Pyrogram">
+    <a href="https://t.me/Prof_agora">
         Community
     </a>
 </p>
@@ -42,7 +42,7 @@ and bot identities (bot API alternative) via the [MTProto API](https://docs.pyro
 
 - **Easy**: You can install Pyrogram with pip and start building your applications right away.
 - **Elegant**: Low-level details are abstracted and re-presented in a much nicer and easier way.
-- **Fast**: Crypto parts are boosted up by [TgCrypto](https://github.com/pyrogram/tgcrypto), a high-performance library
+- **Fast**: Crypto parts are boosted up by [TgCrypto](https://github.com/pyrogr/tgcrypto), a high-performance library
   written in pure C.
 - **Asynchronous**: Allows both synchronous and asynchronous models to fit all usage needs.
 - **Documented**: API methods, types and public interfaces are all [well documented](https://docs.pyrogram.org).
